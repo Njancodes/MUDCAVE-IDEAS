@@ -1,1 +1,1 @@
-- [ ] change this repo's name for Mudcave-ideas or somethign cuz its not only for events
+- [x] change this repo's name for Mudcave-ideas or somethign cuz its not only for events
