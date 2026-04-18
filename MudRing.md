@@ -119,3 +119,34 @@ https://hyperlinkarchive.neocities.org/addbutton
 
 # idk why it was in the thread
 https://github.com/stevearc/conform.nvim
+
+# sphere
+https://youtu.be/AGh5LM7Jmfk
+<img width="2584" height="2572" alt="image" src="https://github.com/user-attachments/assets/ce0819b5-3307-4d2a-9610-c1a475217d9b" />
+
+## explanation
+we add one dimention to a webring, we get a webshere. The reason its a 2d sphere is that we are looking at the sphere's area which is 2d.
+The shpere is made by taking a one dimentional array that we project onto the sphere. Every time a member will join, the sphere will change.
+The sphere is created from top to bottom, the first element of the array will be the north pole and the newest addition the south pole.
+Sites are not placed by geographic location.
+Because it is a sphere, the closer you are to the emisphere, the more your website will be recommended to people. So that gives newcommers and veterans the advantage.
+
+## north pole
+this is the main site of the webring, because its at the north pole it will be 
+it would contain this:
+- information about the sphere
+- how to join
+- the git repos
+- a list of all participants (or a link to the json)
+- possibly a 3d viewer of the sphere.
+
+for differents moments in the year, the site theme may change.  
+
+## website viewer
+This is to be done once the normal shpere is finished.
+a webviewer just like google earth of the sphere.
+we can click on the links and rotate the globe around.
+Every site is assigned a patch of land.
+You may draw on your land, there is no moderation on what you draw, if you descide to draw a dick, you can but I wont click on your site.
+if the user doesnt provide a drawing, either words extracted from the site will be shown or leave it blank or something.
+The countries shape are probably just simple squares although we could make some function with some perlin noise or something to make prettier borders.
